@@ -1,6 +1,6 @@
-[Home](../README.md) > [Working with Data](./README.md) > Relational databases - Designing
+[Home](../README.md) > [Databases and data storages](./README.md) > Relational databases - Designing
 
-> Module: Working with Data
+> Module: Databases and data storages
 
 # Topic: Relational databases - Designing
 

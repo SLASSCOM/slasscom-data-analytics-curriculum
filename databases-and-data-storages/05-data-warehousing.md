@@ -1,6 +1,6 @@
-[Home](../README.md) > [Working with Data](./README.md) > What is an API
+[Home](../README.md) > [Databases and data storages](./README.md) > Data warehousing and cloud technologies
 
-> Module: Working with Data
+> Module: Databases and data storages
 
 # Topic: Data warehousing and cloud technologies
 
