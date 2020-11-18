@@ -25,7 +25,7 @@ A database management system (DBMS) refers to the technology for creating and ma
 
 1. [Introduction to database systems](./01-intro-to-db-systems.md)
 2. [Relational databases - Designing](./02-relational-db-design.md)
-3. [RDBMS SQL](./03-rdbms-sql.md)
+3. [SQL](./03-rdbms-sql.md)
 4. [Big data](./04-big-data.md)
 5. [Data warehousing and cloud technologies](./05-data-warehousing.md)
 
