@@ -1,8 +1,8 @@
-[Home](../README.md) > [Working with Data](./README.md) > RDBMS & SQL
+[Home](../README.md) > [Databases and data storages](./README.md) > SQL
 
-> Module: Working with Data
+> Module: Databases and data storages
 
-# Topic: RDBMS & SQL
+# Topic: SQL
 
 1. Lesson: [Introduction to SQL , Uses of tables , CRUD operations](#lesson-1)
 1. Assessment: [Assessment 1](#assessment-1)

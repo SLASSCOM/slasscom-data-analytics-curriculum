@@ -1,6 +1,6 @@
-[Home](../README.md) > [Working with Data](./README.md) > Big data
+[Home](../README.md) > [Databases and data storages](./README.md) > Big data
 
-> Module: Working with Data
+> Module: Databases and data storages
 
 # Topic: Big data
 
