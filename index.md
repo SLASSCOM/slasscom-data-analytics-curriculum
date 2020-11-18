@@ -20,6 +20,7 @@ This model curriculum is to be used as guidance by educational institutes in tea
 | Module A         | [View Topics](./module-a/README.md)    |
 | Module B         | [View Topics](./module-a/README.md)    |
 | Module C         | [View Topics](./module-a/README.md)    |
+| Databases and data storages              | [View Topics](./databases-and-data-storages/README.md)              |
 
 ## Problem overview
 
