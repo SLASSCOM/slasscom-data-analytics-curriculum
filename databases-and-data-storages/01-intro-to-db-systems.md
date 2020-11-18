@@ -1,6 +1,6 @@
-[Home](../README.md) > [Working with Data](./README.md) > Introduction to database systems
+[Home](../README.md) > [Databases and data storages](./README.md) > Introduction to database systems
 
-> Module: Working with Data
+> Module: Databases and data storages
 
 # Topic: Introduction to database systems
 
