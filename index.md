@@ -17,7 +17,7 @@ This model curriculum is to be used as guidance by educational institutes in tea
 
 | Module                         | Details                                                   |
 | ------------------------------ | --------------------------------------------------------- |
-| Descriptive statistics & probability distributions         | [View Topics](./descriptive-statistics-and-probability-distributions/README.md)    |
+| Descriptive statistics and probability distributions         | [View Topics](./descriptive-statistics-and-probability-distributions/README.md)    |
 | Introduction to statistical inference         | [View Topics](./introduction-to-statistical-inference/README.md)    |
 | Regression analysis         | [View Topics](./regression-analysis/README.md)    |
 | Time series analysis         | [View Topics](./time-series-analysis/README.md)    |
