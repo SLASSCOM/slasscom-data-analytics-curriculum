@@ -17,10 +17,15 @@ This model curriculum is to be used as guidance by educational institutes in tea
 
 | Module                         | Details                                                   |
 | ------------------------------ | --------------------------------------------------------- |
-| Module A         | [View Topics](./module-a/README.md)    |
-| Module B         | [View Topics](./module-a/README.md)    |
-| Module C         | [View Topics](./module-a/README.md)    |
+| Descriptive statistics & probability distributions         | [View Topics](./descriptive-statistics-and-probability-distributions/README.md)    |
+| Introduction to statistical inference         | [View Topics](./introduction-to-statistical-inference/README.md)    |
+| Regression analysis         | [View Topics](./regression-analysis/README.md)    |
+| Time series analysis         | [View Topics](./time-series-analysis/README.md)    |
+| Introduction to Python         | [View Topics](./introduction-to-python/README.md)    |
 | Databases and data storages              | [View Topics](./databases-and-data-storages/README.md)              |
+| Visualization and Advnace Python         | [View Topics](./visualization-and-advnace-python/README.md)    |
+| Introduction to machine learning         | [View Topics](./introduction-to-machine-learning/README.md)    |
+| Data ethics         | [View Topics](./data-ethics/README.md)    |
 
 ## Problem overview
 
