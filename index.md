@@ -1,4 +1,4 @@
-# Data Analytics Curriculum
+# Introduction
 
 This model curriculum is to be used as guidance by educational institutes in teaching ICT.
 
