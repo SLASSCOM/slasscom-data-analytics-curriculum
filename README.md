@@ -1,4 +1,4 @@
-# Visual Design and Multimedia Curriculum
+# Data Analytics Curriculum
 
 Diploma level curriculum as a guidance to educational institutes. Visit [Curriculum Website](https://slasscom.github.io/slasscom-data-analytics-curriculum) for more details
 
