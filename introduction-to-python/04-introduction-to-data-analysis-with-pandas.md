@@ -1,12 +1,14 @@
-[Home](../README.md) > [Databases and data storages](./README.md) > Introduction to database systems
+[Home](../README.md) > [Introduction to Python](./README.md) > Introduction to data analysis with Pandas
 
-> Module: Databases and data storages
+> Module: Introduction to Python
 
-# Topic: Introduction to database systems
+# Topic: Introduction to data analysis with Pandas
 
-1. Lesson: [What is data & overview on Databases](#lesson-1)
-1. Lesson: [Why not traditional file systems (Discussion points)](#lesson-2)
-1. Lesson: [High level introduction to modern databases](#lesson-3)
+1. Lesson: [Introduction to numpy & pandas](#lesson-1)
+1. Lesson: [Working with data series](#lesson-2)
+1. Lesson: [Filtering & sorting](#lesson-3)
+1. Lesson: [Slicing & dicing](#lesson-4)
+1. Lesson: [Pivoting & unstacking](#lesson-5)
 
 ---
 
@@ -14,7 +16,7 @@
 
 ## Lesson 1
 
-> What is data & overview on Databases.  
+> Introduction to numpy & pandas
 
 <dl>
 <dt>Self Learning Duration</dt>
@@ -25,13 +27,10 @@
 
 ### Self learning content
 
-https://www.youtube.com/watch?v=FR4QIeZaPeM
 
 ### Lecture content
 
-In this section we are going to discuss about data and why it's very important in nowadays. Discuss about how data is being storing and then moving to the database systems. 
-
-https://www.guru99.com/what-is-dbms.html
+Basic concepts of numpy & pandas. data series, numpy arrays
 
 ### Lab and tutorials
 
@@ -43,7 +42,7 @@ None
 
 ## Lesson 2
 
-> Why not traditional file systems (Discussion points)
+> Working with data series
 
 <dl>
 <dt>Self Learning Duration</dt>
@@ -54,13 +53,10 @@ None
 
 ### Self learning content
 
-https://www.includehelp.com/dbms/dbms-vs-traditional-file-system.aspx
 
 ### Lecture content
 
-Discuss about how data can be store. Discuss about the legacy ways of storing data and the modern technologies about how these days we are storing data.
-
-https://www.youtube.com/watch?v=5t0Y13AkWgc
+Creating and accessing data series and iterating through
 
 ### Lab and tutorials
 
@@ -72,7 +68,7 @@ None
 
 ## Lesson 3
 
-> High level introduction to morden databases
+> Filtering & sorting
 
 <dl>
 <dt>Self Learning Duration</dt>
@@ -83,14 +79,67 @@ None
 
 ### Self learning content
 
-https://www.youtube.com/watch?v=wR0jg0eQsZA
 
 ### Lecture content
 
-Briefly introduced currently available modern database technologies and use cases of them.
-
-https://dzone.com/articles/the-types-of-modern-databases
+https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html
 
 ### Lab and tutorials
 
 None
+
+---
+
+---
+
+## Lesson 4
+
+> Slicing & dicing
+
+<dl>
+<dt>Self Learning Duration</dt>
+<dd>30 mins</dd>
+<dt>Lecture Duration</dt>
+<dd>30 mins</dd>
+</dl>
+
+### Self learning content
+
+
+### Lecture content
+
+Getting different views, merging and manipulating. (alternatively Apply function)
+
+### Lab and tutorials
+
+None
+
+---
+
+---
+
+## Lesson 5
+
+> Pivoting & unstacking
+
+<dl>
+<dt>Self Learning Duration</dt>
+<dd>30 mins</dd>
+<dt>Lecture Duration</dt>
+<dd>30 mins</dd>
+</dl>
+
+### Self learning content
+
+
+### Lecture content
+
+Group by and pivots. Aggregated functions and applying lambda on it. Analizing a financial dataset to create differnt views can be hands on
+
+### Lab and tutorials
+
+None
+
+---
+
+---
