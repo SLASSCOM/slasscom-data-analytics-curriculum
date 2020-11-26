@@ -1,12 +1,17 @@
-[Home](../README.md) > [Databases and data storages](./README.md) > Introduction to database systems
+[Home](../README.md) > [Introduction to Python](./README.md) > Python Fundementals
 
-> Module: Databases and data storages
+> Module: Introduction to Python
 
-# Topic: Introduction to database systems
+# Topic: Python Fundementals
 
-1. Lesson: [What is data & overview on Databases](#lesson-1)
-1. Lesson: [Why not traditional file systems (Discussion points)](#lesson-2)
-1. Lesson: [High level introduction to modern databases](#lesson-3)
+1. Lesson: [Why Python as a programming langauge](#lesson-1)
+1. Lesson: [Interpreters & dynamic programming](#lesson-2)
+1. Lesson: [Programming basics & types](#lesson-3)
+1. Lesson: [Expressions](#lesson-4)
+1. Lesson: [Controlling program flow](#lesson-5)
+1. Lesson: [Conditions & exception handling](#lesson-6)
+1. Lesson: [Loops & iterations](#lesson-7)
+1. Lesson: [Coding stanadards & best practices](#lesson-8)
 
 ---
 
@@ -14,7 +19,7 @@
 
 ## Lesson 1
 
-> What is data & overview on Databases.  
+> Why Python as a programming langauge
 
 <dl>
 <dt>Self Learning Duration</dt>
@@ -25,13 +30,10 @@
 
 ### Self learning content
 
-https://www.youtube.com/watch?v=FR4QIeZaPeM
 
 ### Lecture content
 
-In this section we are going to discuss about data and why it's very important in nowadays. Discuss about how data is being storing and then moving to the database systems. 
-
-https://www.guru99.com/what-is-dbms.html
+https://www.w3schools.com/python/
 
 ### Lab and tutorials
 
@@ -43,7 +45,7 @@ None
 
 ## Lesson 2
 
-> Why not traditional file systems (Discussion points)
+> Interpreters & dynamic programming
 
 <dl>
 <dt>Self Learning Duration</dt>
@@ -54,13 +56,10 @@ None
 
 ### Self learning content
 
-https://www.includehelp.com/dbms/dbms-vs-traditional-file-system.aspx
 
 ### Lecture content
 
-Discuss about how data can be store. Discuss about the legacy ways of storing data and the modern technologies about how these days we are storing data.
-
-https://www.youtube.com/watch?v=5t0Y13AkWgc
+Introducing ipython console and dynamic nature 
 
 ### Lab and tutorials
 
@@ -72,7 +71,7 @@ None
 
 ## Lesson 3
 
-> High level introduction to morden databases
+> Programming basics & types
 
 <dl>
 <dt>Self Learning Duration</dt>
@@ -83,14 +82,158 @@ None
 
 ### Self learning content
 
-https://www.youtube.com/watch?v=wR0jg0eQsZA
+
 
 ### Lecture content
 
-Briefly introduced currently available modern database technologies and use cases of them.
-
-https://dzone.com/articles/the-types-of-modern-databases
+Types and how each type works. 
+Inputs & casting. 
+Simple outputs
 
 ### Lab and tutorials
 
 None
+
+---
+
+---
+
+## Lesson 4
+
+> Expressions
+
+<dl>
+<dt>Self Learning Duration</dt>
+<dd>30 mins</dd>
+<dt>Lecture Duration</dt>
+<dd>30 mins</dd>
+</dl>
+
+### Self learning content
+
+
+
+### Lecture content
+
+Different kind of expressions. 
+Variables and constants. 
+Binding
+
+### Lab and tutorials
+
+None
+
+---
+
+---
+
+## Lesson 5
+
+> Controlling program flow
+
+<dl>
+<dt>Self Learning Duration</dt>
+<dd>30 mins</dd>
+<dt>Lecture Duration</dt>
+<dd>30 mins</dd>
+</dl>
+
+### Self learning content
+
+
+
+### Lecture content
+
+High level overview on the flow of a program and introducing different statements to set the foundation for the next lesson
+
+### Lab and tutorials
+
+None
+
+---
+
+---
+
+## Lesson 6
+
+> Conditions & exception handling
+
+<dl>
+<dt>Self Learning Duration</dt>
+<dd>30 mins</dd>
+<dt>Lecture Duration</dt>
+<dd>30 mins</dd>
+</dl>
+
+### Self learning content
+
+
+
+### Lecture content
+
+If conditions, case statements. 
+Exception handling. 
+Building a simple loan interst calculator (handling user inputs, type casting, handling exceptions and string formated outputs)
+
+### Lab and tutorials
+
+None
+
+---
+
+---
+
+## Lesson 7
+
+> Loops & iterations
+
+<dl>
+<dt>Self Learning Duration</dt>
+<dd>30 mins</dd>
+<dt>Lecture Duration</dt>
+<dd>30 mins</dd>
+</dl>
+
+### Self learning content
+
+
+
+### Lecture content
+
+For loop, while loop. 
+Using while loop to keep the interactive shell active to create a small program to interact with user. (If user ask to quite it should quite if not it will print or do some calculations inside a loop)
+
+### Lab and tutorials
+
+None
+
+---
+
+---
+
+## Lesson 8
+
+> Coding stanadards & best practices
+
+<dl>
+<dt>Self Learning Duration</dt>
+<dd>30 mins</dd>
+<dt>Lecture Duration</dt>
+<dd>30 mins</dd>
+</dl>
+
+### Self learning content
+
+
+
+### Lecture content
+
+Theortical lesson on variable naming, pep-8, and sensible comments
+
+### Lab and tutorials
+
+None
+
+---
+
+---
