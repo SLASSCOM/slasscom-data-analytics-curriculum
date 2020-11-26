@@ -1,12 +1,12 @@
-[Home](../README.md) > [Databases and data storages](./README.md) > Introduction to database systems
+[Home](../README.md) > [Introduction to Python](./README.md) > Collections
 
-> Module: Databases and data storages
+> Module: Introduction to Python
 
-# Topic: Introduction to database systems
+# Topic: Collections
 
-1. Lesson: [What is data & overview on Databases](#lesson-1)
-1. Lesson: [Why not traditional file systems (Discussion points)](#lesson-2)
-1. Lesson: [High level introduction to modern databases](#lesson-3)
+1. Lesson: [Lists & Tuples](#lesson-1)
+1. Lesson: [Dictionaries](#lesson-2)
+1. Lesson: [Comprehensions & assignement](#lesson-3)
 
 ---
 
@@ -14,7 +14,7 @@
 
 ## Lesson 1
 
-> What is data & overview on Databases.  
+> Lists & Tuples 
 
 <dl>
 <dt>Self Learning Duration</dt>
@@ -25,13 +25,10 @@
 
 ### Self learning content
 
-https://www.youtube.com/watch?v=FR4QIeZaPeM
 
 ### Lecture content
 
-In this section we are going to discuss about data and why it's very important in nowadays. Discuss about how data is being storing and then moving to the database systems. 
-
-https://www.guru99.com/what-is-dbms.html
+Building lists and working with Lists. Building up a price series 
 
 ### Lab and tutorials
 
@@ -43,7 +40,7 @@ None
 
 ## Lesson 2
 
-> Why not traditional file systems (Discussion points)
+> Dictionaries
 
 <dl>
 <dt>Self Learning Duration</dt>
@@ -54,13 +51,10 @@ None
 
 ### Self learning content
 
-https://www.includehelp.com/dbms/dbms-vs-traditional-file-system.aspx
 
 ### Lecture content
 
-Discuss about how data can be store. Discuss about the legacy ways of storing data and the modern technologies about how these days we are storing data.
-
-https://www.youtube.com/watch?v=5t0Y13AkWgc
+Working with dictionaries. Creating and manpulating of a dictionary which has stock tickers and corresponding prices
 
 ### Lab and tutorials
 
@@ -72,7 +66,7 @@ None
 
 ## Lesson 3
 
-> High level introduction to morden databases
+> Comprehensions & assignement
 
 <dl>
 <dt>Self Learning Duration</dt>
@@ -83,14 +77,15 @@ None
 
 ### Self learning content
 
-https://www.youtube.com/watch?v=wR0jg0eQsZA
 
 ### Lecture content
 
-Briefly introduced currently available modern database technologies and use cases of them.
-
-https://dzone.com/articles/the-types-of-modern-databases
+Building a small program to construct a portfolio using a dictonary. 
 
 ### Lab and tutorials
 
 None
+
+---
+
+---
