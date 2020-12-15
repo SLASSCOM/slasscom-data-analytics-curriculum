@@ -73,19 +73,21 @@ None
 <dt>Self Learning Duration</dt>
 <dd>30 mins</dd>
 <dt>Lecture Duration</dt>
-<dd>30 mins</dd>
+<dd>90 mins</dd>
 </dl>
 
 ### Self learning content
 
+https://www.guru99.com/python-lambda-function.html
 
 ### Lecture content
 
-Anonymus functions. Building up a lambda expression using (map, filter, reduce ) to solve a problem
+Anonymus functions.  
+Building up a lambda expression using (map, filter, reduce ) to solve a problem.
 
 ### Lab and tutorials
 
-None
+Create few lists with some numerical data, use only lambda functions such as map, filter, reduce to find minimum, maximum, average and print all values above X.
 
 ---
 
@@ -99,19 +101,22 @@ None
 <dt>Self Learning Duration</dt>
 <dd>30 mins</dd>
 <dt>Lecture Duration</dt>
-<dd>30 mins</dd>
+<dd>180 mins</dd>
 </dl>
 
 ### Self learning content
 
+https://www.tutorialspoint.com/python/python_classes_objects.htm
 
 ### Lecture content
 
-https://www.tutorialspoint.com/python/python_classes_objects.htm
+Basic object oriented concepts.  
+How OOP works with Python.  
+Init method.
 
 ### Lab and tutorials
 
-None
+Create a class call shape as the super class which will have properties such as colours. Inherit from it to create circle and square. Have functions such as calculate area.
 
 ---
 
