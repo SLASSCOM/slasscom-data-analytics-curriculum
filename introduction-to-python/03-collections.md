@@ -20,7 +20,7 @@
 <dt>Self Learning Duration</dt>
 <dd>30 mins</dd>
 <dt>Lecture Duration</dt>
-<dd>30 mins</dd>
+<dd>90 mins</dd>
 </dl>
 
 ### Self learning content
@@ -28,11 +28,12 @@
 
 ### Lecture content
 
-Building lists and working with Lists. Building up a price series 
+Building lists and working with Lists.  
+Building up a price series 
 
 ### Lab and tutorials
 
-None
+Build stock market price series.
 
 ---
 
@@ -46,7 +47,7 @@ None
 <dt>Self Learning Duration</dt>
 <dd>30 mins</dd>
 <dt>Lecture Duration</dt>
-<dd>30 mins</dd>
+<dd>90 mins</dd>
 </dl>
 
 ### Self learning content
@@ -54,11 +55,12 @@ None
 
 ### Lecture content
 
-Working with dictionaries. Creating and manpulating of a dictionary which has stock tickers and corresponding prices
+Working with dictionaries.  
+Creating and manpulating of a dictionary which has stock tickers and corresponding prices
 
 ### Lab and tutorials
 
-None
+Refer colombo stock exchange prices and create a dictionary which has ticker as the key and values (last traded, volume, open ) as a list. Create a function which would accept a ticker and print all stock realted information.
 
 ---
 
@@ -72,7 +74,7 @@ None
 <dt>Self Learning Duration</dt>
 <dd>30 mins</dd>
 <dt>Lecture Duration</dt>
-<dd>30 mins</dd>
+<dd>60 mins</dd>
 </dl>
 
 ### Self learning content
@@ -80,11 +82,11 @@ None
 
 ### Lecture content
 
-Building a small program to construct a portfolio using a dictonary. 
+List, Dict comprehensions and how to effectively write loops.
 
 ### Lab and tutorials
 
-None
+Building a small program to construct a portfolio using a dictonary.
 
 ---
 
