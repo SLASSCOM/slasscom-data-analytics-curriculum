@@ -25,15 +25,16 @@
 <dt>Self Learning Duration</dt>
 <dd>30 mins</dd>
 <dt>Lecture Duration</dt>
-<dd>30 mins</dd>
+<dd>20 mins</dd>
 </dl>
 
 ### Self learning content
 
+https://www.youtube.com/watch?v=Y8Tko2YC5hA
 
 ### Lecture content
 
-https://www.w3schools.com/python/
+Basic introduction to Python and why to use Python
 
 ### Lab and tutorials
 
@@ -51,7 +52,7 @@ None
 <dt>Self Learning Duration</dt>
 <dd>30 mins</dd>
 <dt>Lecture Duration</dt>
-<dd>30 mins</dd>
+<dd>15 mins</dd>
 </dl>
 
 ### Self learning content
@@ -82,13 +83,13 @@ None
 
 ### Self learning content
 
-
+https://www.w3schools.com/python/
 
 ### Lecture content
 
-Types and how each type works. 
-Inputs & casting. 
-Simple outputs
+Types and how each type works.   
+Inputs & casting.   
+Simple outputs.  
 
 ### Lab and tutorials
 
@@ -106,7 +107,7 @@ None
 <dt>Self Learning Duration</dt>
 <dd>30 mins</dd>
 <dt>Lecture Duration</dt>
-<dd>30 mins</dd>
+<dd>60 mins</dd>
 </dl>
 
 ### Self learning content
@@ -115,9 +116,9 @@ None
 
 ### Lecture content
 
-Different kind of expressions. 
-Variables and constants. 
-Binding
+Different kind of expressions.   
+Variables and constants.   
+Binding.  
 
 ### Lab and tutorials
 
@@ -129,7 +130,7 @@ None
 
 ## Lesson 5
 
-> Controlling program flow
+> Controlling program flow - Inputs & outputs on console
 
 <dl>
 <dt>Self Learning Duration</dt>
@@ -162,7 +163,7 @@ None
 <dt>Self Learning Duration</dt>
 <dd>30 mins</dd>
 <dt>Lecture Duration</dt>
-<dd>30 mins</dd>
+<dd>120 mins</dd>
 </dl>
 
 ### Self learning content
@@ -171,13 +172,12 @@ None
 
 ### Lecture content
 
-If conditions, case statements. 
-Exception handling. 
-Building a simple loan interst calculator (handling user inputs, type casting, handling exceptions and string formated outputs)
+If conditions, case statements.   
+Exception handling.   
 
 ### Lab and tutorials
 
-None
+Building a simple loan interst calculator (handling user inputs, type casting, handling exceptions and string formated outputs)
 
 ---
 
@@ -191,7 +191,7 @@ None
 <dt>Self Learning Duration</dt>
 <dd>30 mins</dd>
 <dt>Lecture Duration</dt>
-<dd>30 mins</dd>
+<dd>120 mins</dd>
 </dl>
 
 ### Self learning content
@@ -200,7 +200,7 @@ None
 
 ### Lecture content
 
-For loop, while loop. 
+For loop, while loop.   
 Using while loop to keep the interactive shell active to create a small program to interact with user. (If user ask to quite it should quite if not it will print or do some calculations inside a loop)
 
 ### Lab and tutorials
@@ -224,7 +224,7 @@ None
 
 ### Self learning content
 
-
+https://www.python.org/dev/peps/pep-0008/
 
 ### Lecture content
 
