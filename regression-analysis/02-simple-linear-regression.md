@@ -1,17 +1,16 @@
-[Home](../README.md) > [Introduction to Python](./README.md) > Python Fundementals
+[Home](../README.md) > [Regression Anlysis ](./README.md) > Simple Linear Regression
 
-> Module: Introduction to Python
+> Module: Regression Anlysis
 
-# Topic: Python Fundementals
+# Topic: Simple Linear Regression
 
-1. Lesson: [Why Python as a programming langauge](#lesson-1)
-1. Lesson: [Interpreters & dynamic programming](#lesson-2)
-1. Lesson: [Programming basics & types](#lesson-3)
-1. Lesson: [Expressions](#lesson-4)
-1. Lesson: [Controlling program flow](#lesson-5)
-1. Lesson: [Conditions & exception handling](#lesson-6)
-1. Lesson: [Loops & iterations](#lesson-7)
-1. Lesson: [Coding stanadards & best practices](#lesson-8)
+1. Lesson: [Introduction](#lesson-1)
+1. Lesson: [Model assumptions](#lesson-2)
+1. Lesson: [Parameter estimation](#lesson-3)
+1. Lesson: [Interences about the model](#lesson-4)
+1. Lesson: [Predictions](#lesson-5)
+1. Lesson: [Interpretations of regression coefficient](#lesson-6)
+1. Lesson: [Evaluating model adequacy](#lesson-7)
 
 ---
 
@@ -19,7 +18,7 @@
 
 ## Lesson 1
 
-> Why Python as a programming langauge
+> Introduction
 
 <dl>
 <dt>Self Learning Duration</dt>
@@ -30,11 +29,12 @@
 
 ### Self learning content
 
-https://www.youtube.com/watch?v=Y8Tko2YC5hA
+https://www.kaggle.com/timniven/linear-regression-tutorial
 
 ### Lecture content
 
-Basic introduction to Python and why to use Python
+what is linear regression?  
+When and Where to use it, Properties of Least Square Estimates.
 
 ### Lab and tutorials
 
@@ -46,7 +46,7 @@ None
 
 ## Lesson 2
 
-> Interpreters & dynamic programming
+> Model assumptions
 
 <dl>
 <dt>Self Learning Duration</dt>
@@ -60,7 +60,6 @@ None
 
 ### Lecture content
 
-Introducing ipython console and dynamic nature 
 
 ### Lab and tutorials
 
@@ -72,7 +71,7 @@ None
 
 ## Lesson 3
 
-> Programming basics & types
+> Parameter estimation
 
 <dl>
 <dt>Self Learning Duration</dt>
@@ -83,13 +82,10 @@ None
 
 ### Self learning content
 
-https://www.w3schools.com/python/
 
 ### Lecture content
 
-Types and how each type works.   
-Inputs & casting.   
-Simple outputs.  
+Theortical Estimation along with Practical Example  
 
 ### Lab and tutorials
 
@@ -101,7 +97,7 @@ None
 
 ## Lesson 4
 
-> Expressions
+> Interences about the model
 
 <dl>
 <dt>Self Learning Duration</dt>
@@ -113,12 +109,9 @@ None
 ### Self learning content
 
 
-
 ### Lecture content
 
-Different kind of expressions.   
-Variables and constants.   
-Binding.  
+How to use hypothesis testing and confidence intervals in regression to estimate parameters, small introduction to ANOVA (without going deeper in to the mathematical side) 
 
 ### Lab and tutorials
 
@@ -130,7 +123,7 @@ None
 
 ## Lesson 5
 
-> Controlling program flow - Inputs & outputs on console
+> Predictions
 
 <dl>
 <dt>Self Learning Duration</dt>
@@ -145,7 +138,7 @@ None
 
 ### Lecture content
 
-High level overview on the flow of a program and introducing different statements to set the foundation for the next lesson
+Practical Example on how to do a prediction using linear regression.
 
 ### Lab and tutorials
 
@@ -157,7 +150,7 @@ None
 
 ## Lesson 6
 
-> Conditions & exception handling
+> Interpretations of regression coefficient
 
 <dl>
 <dt>Self Learning Duration</dt>
@@ -172,12 +165,10 @@ None
 
 ### Lecture content
 
-If conditions, case statements.   
-Exception handling.   
+How to interpret the regression estimates. (use an example)   
 
 ### Lab and tutorials
 
-Building a simple loan interst calculator (handling user inputs, type casting, handling exceptions and string formated outputs)
 
 ---
 
@@ -185,7 +176,7 @@ Building a simple loan interst calculator (handling user inputs, type casting, h
 
 ## Lesson 7
 
-> Loops & iterations
+> Evaluating model adequacy
 
 <dl>
 <dt>Self Learning Duration</dt>
@@ -197,43 +188,15 @@ Building a simple loan interst calculator (handling user inputs, type casting, h
 ### Self learning content
 
 
-
 ### Lecture content
 
-For loop, while loop.   
-Using while loop to keep the interactive shell active to create a small program to interact with user. (If user ask to quite it should quite if not it will print or do some calculations inside a loop)
+How to check the assumptions are statisfied, how to identify the outliers and how to deal with  model departures ( transformations)
 
 ### Lab and tutorials
 
-None
+Get a suitable dataset from kaggle and build a linear regression model slove a specific problem. (Case study)
 
 ---
 
 ---
 
-## Lesson 8
-
-> Coding stanadards & best practices
-
-<dl>
-<dt>Self Learning Duration</dt>
-<dd>30 mins</dd>
-<dt>Lecture Duration</dt>
-<dd>30 mins</dd>
-</dl>
-
-### Self learning content
-
-https://www.python.org/dev/peps/pep-0008/
-
-### Lecture content
-
-Theortical lesson on variable naming, pep-8, and sensible comments
-
-### Lab and tutorials
-
-None
-
----
-
----
