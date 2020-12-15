@@ -32,7 +32,7 @@
 
 ### Lecture content
 
-Introducing charting library and brief overview of visualization
+Introducing charting library and brief overview of visualization.
 
 ### Lab and tutorials
 
@@ -50,19 +50,21 @@ None
 <dt>Self Learning Duration</dt>
 <dd>30 mins</dd>
 <dt>Lecture Duration</dt>
-<dd>30 mins</dd>
+<dd>60 mins</dd>
 </dl>
 
 ### Self learning content
 
+https://www.datacamp.com/community/tutorials/matplotlib-tutorial-python?utm_source=adwords_ppc&utm_campaignid=1455363063&utm_adgroupid=65083631748&utm_device=c&utm_keyword=&utm_matchtype=b&utm_network=g&utm_adpostion=&utm_creative=332602034358&utm_targetid=aud-763347114660:dsa-473406587955&utm_loc_interest_ms=&utm_loc_physical_ms=9069783&gclid=CjwKCAiA-_L9BRBQEiwA-bm5fuF3ZZ6IJ4V4PXzEzWIhhM5YSs3zlDfQrYuFwR7PPwU5XNHmBrGP9xoC9ZgQAvD_BwE
 
 ### Lecture content
 
-https://www.datacamp.com/community/tutorials/matplotlib-tutorial-python?utm_source=adwords_ppc&utm_campaignid=1455363063&utm_adgroupid=65083631748&utm_device=c&utm_keyword=&utm_matchtype=b&utm_network=g&utm_adpostion=&utm_creative=332602034358&utm_targetid=aud-763347114660:dsa-473406587955&utm_loc_interest_ms=&utm_loc_physical_ms=9069783&gclid=CjwKCAiA-_L9BRBQEiwA-bm5fuF3ZZ6IJ4V4PXzEzWIhhM5YSs3zlDfQrYuFwR7PPwU5XNHmBrGP9xoC9ZgQAvD_BwE
+Create different chart types.  
+Focus on sub plots and different styling.
 
 ### Lab and tutorials
 
-None
+Get a dataset from Kaggle and create few bar charts also make sure to pick a scenario which would have sub plots.
 
 ---
 
@@ -76,15 +78,17 @@ None
 <dt>Self Learning Duration</dt>
 <dd>30 mins</dd>
 <dt>Lecture Duration</dt>
-<dd>30 mins</dd>
+<dd>60 mins</dd>
 </dl>
 
 ### Self learning content
 
+https://www.datacamp.com/community/tutorials/histograms-matplotlib?utm_source=adwords_ppc&utm_campaignid=1455363063&utm_adgroupid=65083631748&utm_device=c&utm_keyword=&utm_matchtype=b&utm_network=g&utm_adpostion=&utm_creative=278443377086&utm_targetid=aud-763347114660:dsa-429603003980&utm_loc_interest_ms=&utm_loc_physical_ms=9069783&gclid=CjwKCAiA-_L9BRBQEiwA-bm5fsWpRsBNSr2DziOifbSXQ178-KeyldEWNrhIY4dNp37k18HlukKx4RoCpqoQAvD_BwE
 
 ### Lecture content
 
-https://www.datacamp.com/community/tutorials/histograms-matplotlib?utm_source=adwords_ppc&utm_campaignid=1455363063&utm_adgroupid=65083631748&utm_device=c&utm_keyword=&utm_matchtype=b&utm_network=g&utm_adpostion=&utm_creative=278443377086&utm_targetid=aud-763347114660:dsa-429603003980&utm_loc_interest_ms=&utm_loc_physical_ms=9069783&gclid=CjwKCAiA-_L9BRBQEiwA-bm5fsWpRsBNSr2DziOifbSXQ178-KeyldEWNrhIY4dNp37k18HlukKx4RoCpqoQAvD_BwE
+Create histograms and box plots.  
+Discussed why histograms and in which cases it's useful.
 
 ### Lab and tutorials
 
@@ -102,7 +106,7 @@ None
 <dt>Self Learning Duration</dt>
 <dd>30 mins</dd>
 <dt>Lecture Duration</dt>
-<dd>30 mins</dd>
+<dd>60 mins</dd>
 </dl>
 
 ### Self learning content
@@ -128,15 +132,16 @@ None
 <dt>Self Learning Duration</dt>
 <dd>30 mins</dd>
 <dt>Lecture Duration</dt>
-<dd>30 mins</dd>
+<dd>120 mins</dd>
 </dl>
 
 ### Self learning content
 
+https://matplotlib.org/api/pyplot_api.html
 
 ### Lecture content
 
-Stacking charts 
+Stacking charts, sharing axis, heat maps
 
 ### Lab and tutorials
 
@@ -162,11 +167,13 @@ None
 
 ### Lecture content
 
-Building a solution which involves loading data and doing some analysis, changing data and saving it back. OOP should get applied and All previously learnd lessons should get applied
+Explain the structure of the final project and outcomes.  
+Student can select any complex dataset and demostracte the analytical skills.  
+Selected dataset needs to be with few files. 
 
 ### Lab and tutorials
 
-None
+Building a solution which involves loading data and doing some analysis, changing data and saving it back. OOP should get applied and All previously learnd lessons should get applied
 
 ---
 
