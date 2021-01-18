@@ -23,10 +23,10 @@
 
 ## Topics
 
-1. [Introduction Regression Anlaysis](./01-what-is-time-series-data.md)
-2. [Simple Linear Regression](./02-Characteristics-of-time-series-data.md)
-3. [Multiple Linear Regression](./03-time-series-and-stationary.md)
-4. [Interpolation and Extrapolation](./04-modeling-time-series.md)
+1. [What is time series data](./01-what-is-time-series-data.md)
+2. [Characteristics of time series data](./02-Characteristics-of-time-series-data.md)
+3. [Time series and stationary](./03-time-series-and-stationary.md)
+4. [Modeling time series](./04-modeling-time-series.md)
 
 ## Learning Outcomes
 
