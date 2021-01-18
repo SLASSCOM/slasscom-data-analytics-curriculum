@@ -1,29 +1,32 @@
-[Home](../README.md) > {{Module Name}}
+[Home](../README.md) > Visualization and Advnace Python
 
-# Module: {{Module Name}}
+# Module: Visualization and Advnace Python
 
-> Short module description (~10 words)
+> Visualization and Advnace Python
 
 <dl>
-<dt>Total Duration</dt>
-<dd>~ xx hours</dd>
-<dt>Number of Topics</dt>
-<dd>x</dd>
+<dt>Duration</dt>
+<dd>~ 10 weeks</dd>
+<dt>Lectures</dt>
+<dd>~ 19 hours</dd>
+<dt>Self Learning</dt>
+<dd>~ 18 hours</dd>
+<dt>Tutorial & Labs</dt>
+<dd>~ 50 hours</dd>
+<dt>Topics</dt>
+<dd>8</dd>
 </dl>
 
 ## Introduction
 
-Module description and why the content is important in the industry (~ 50 words).
+
 
 ## Topics
 
-1. [Topic A](./01-topic-a.md)
-2. [Topic B](./01-topic-a.md)
-3. [Topic C](./01-topic-a.md)
+1. [Charting with Python](./01-charting-with-python.md)
+2. [Pivoting & Stacking](./02-pivoting-and-stacking.md)
+3. [Introduction to PowerBI](./03-introduction-to-power-bi.md)
 
 ## Learning Outcomes
 
-- learning outcome 1
-- learning outcome 2
-- learning outcome 3
-- learning outcome 4
+
