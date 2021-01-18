@@ -1,29 +1,33 @@
-[Home](../README.md) > {{Module Name}}
+[Home](../README.md) > Time Series Analysis
 
-# Module: {{Module Name}}
+# Module: Time Series Analysis
 
-> Short module description (~10 words)
+> Time Series Analysis
 
 <dl>
-<dt>Total Duration</dt>
-<dd>~ xx hours</dd>
-<dt>Number of Topics</dt>
-<dd>x</dd>
+<dt>Duration</dt>
+<dd>~ 10 weeks</dd>
+<dt>Lectures</dt>
+<dd>~ 19 hours</dd>
+<dt>Self Learning</dt>
+<dd>~ 18 hours</dd>
+<dt>Tutorial & Labs</dt>
+<dd>~ 50 hours</dd>
+<dt>Topics</dt>
+<dd>8</dd>
 </dl>
 
 ## Introduction
 
-Module description and why the content is important in the industry (~ 50 words).
+
 
 ## Topics
 
-1. [Topic A](./01-topic-a.md)
-2. [Topic B](./01-topic-a.md)
-3. [Topic C](./01-topic-a.md)
+1. [What is time series data](./01-what-is-time-series-data.md)
+2. [Characteristics of time series data](./02-Characteristics-of-time-series-data.md)
+3. [Time series and stationary](./03-time-series-and-stationary.md)
+4. [Modeling time series](./04-modeling-time-series.md)
 
 ## Learning Outcomes
 
-- learning outcome 1
-- learning outcome 2
-- learning outcome 3
-- learning outcome 4
+
